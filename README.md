@@ -9,3 +9,6 @@ This To-Do list has various options:
 2.Mark the list item if work is done with ~~strikethrough~~ . &nbsp;<br/>
 3.Click on the clear button to remove all the work done . &nbsp;<br/>
 4.Add a new task with add button . &nbsp;<br/>
+
+
+https://github.com/Muskan-goyal6/ToDoList/blob/master/Screenshot%202019-02-11%20at%205.04.04%20PM.png?raw=true
